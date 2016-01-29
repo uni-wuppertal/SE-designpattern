@@ -4,3 +4,4 @@
 
 - ['Folien'](Folien/slides.pdf): Vorlesungsfolien
 
+- Alle Materialen als ['Zipdatei runterladen'](archive/master.zip)
