@@ -4,4 +4,4 @@
 
 - ['Folien'](Folien/slides.pdf): Vorlesungsfolien
 
-- Alle Materialen als ['Zipdatei runterladen'](archive/master.zip)
+- Alle Materialen als [Zipdatei runterladen](https://github.com/uni-wuppertal/SE-designpattern/archive/master.zip)
