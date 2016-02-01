@@ -1,4 +1,4 @@
-# Vorlesungsmaterialien "Design Pattern im Rahmen der Objekt-Orientierten Programmierung"
+# Vorlesungsmaterialien "Design Pattern im Rahmen des objektorientierten Designs"
 
 - [Code](Code): Codebeispiele fuer UML Diagramme in Folien
 
